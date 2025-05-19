@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs (e.g. PyCharm, GoLand, IntelliJ)
+.idea/
+
+# VS Code
+.vscode/
+
+# System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Go
+*.exe
+*.test
+*.out
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# Environment / Secrets
+.env
+.env.*
+
+# Archives / Packages
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tgz
+
+# Build
+dist/
+build/
+.cache/
+*.tmp
+*.bak
+
+# Git
+*.orig
+
+# Ignore by name
+*~  # backups like file.txt~
