@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  collector:
+    build:
+      context: ./collector
+      dockerfile: Dockerfile
+    container_name: library_collector
+    volumes:
+      - ./logs:/app/logs       # optional: persist log files
+    restart: unless-stopped

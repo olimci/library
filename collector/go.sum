@@ -1,0 +1,4 @@
+github.com/olimci/sched v0.0.0-20250519154118-3e6928c2247c h1:/mHe0h8IyDNz+9zhmkc9+yKwf3j1pqg3BHhD3vjQIZs=
+github.com/olimci/sched v0.0.0-20250519154118-3e6928c2247c/go.mod h1:xOkAHGlagHamcDmQsUpA8UkQl0B8NHxubvhYUz+Y+Lw=
+golang.org/x/sync v0.14.0 h1:woo0S4Yywslg6hp4eUFjTVOyKt0RookbpAHG4c1HmhQ=
+golang.org/x/sync v0.14.0/go.mod h1:1dzgHSNfp02xaA81J2MS99Qcpr2w7fw1gpm99rleRqA=
